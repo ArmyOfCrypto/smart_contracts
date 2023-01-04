@@ -1,4 +1,4 @@
 
 # AOC tokens
 
-This repository has the ORC tokens used by Army of Crypto.
+This repository contains the ORC NFT templates used by Army of Crypto.
